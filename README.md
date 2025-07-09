@@ -4,7 +4,7 @@
 
 ## My Holistic Take on Cybersecurity
 
-I'm really building a solid, holistic understanding of security, as my mentor suggested. I've been working on it, and here's my high-level overview:
+I'm built a solid, holistic understanding of security, as my mentor suggested. I've been working on it, and here's my high-level overview so far:
 
 In cybersecurity, it makes most sense to start by grasping the **environment and the network**. I think of it as the **perimeter**; everything else lives within it. Since it's the very first point of contact, securing this level is fundamental. At this stage, I'd be looking at things like **firewalls, proxies, Intrusion Detection/Prevention Systems (IDP/IPS), and potentially VPNs**. Once that perimeter's covered, we move inward to what's inside it, which I break down into three main areas: **Endpoints, Users, and Data**.
 
