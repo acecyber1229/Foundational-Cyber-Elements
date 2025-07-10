@@ -34,6 +34,12 @@ Moving on from endpoints, we shift our attention to **Users**. Users are known t
 * **Multi-Factor Authentication (MFA):** This hardens access points by requiring at least two ways to verify someone's identity.
 * **Least Privilege:** This policy ensures users only get the bare minimum access they need for their job—it's all about authorization.
 * **Role-Based Access Control (RBAC):** This drives the least privilege concept by creating specific roles with defined authorization levels, and then assigning users to those roles.
+* **Security Awareness Training** is equally, if not more, foundational. Users are often the weakest link, and no amount of technical control can fully mitigate risks if users are susceptible to phishing, social engineering, or poor security hygiene. This is a behavioral control that complements the technical onesSalam
+I checked seekers guidance regarding what to do if I accidentally washed my hands with scented soap. It said if it’s lees than a limb (which I think it is for washing only hands) than I only give charity 
+I’m not sure how much I need to give 
+Can you ask sh faraz listed.
+
+
 
 ---
 
