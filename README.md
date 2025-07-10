@@ -19,7 +19,7 @@ After network controls, the next big focus is **Endpoint Security**. These are o
 **For endpoint protection, you'd typically implement:**
 
 * **Antivirus (AV) and Endpoint Protection Platforms (EPP)** as your baseline defense.
-* **Endpoint Detection and Response (EDR)** goes beyond that, catching malicious events that AV might miss and preventing incidents based on the detection rules you've set up. EDR's also go deeper with hunting, detecting and isolating capapbilities.
+* **Endpoint Detection and Response (EDR)** goes beyond that, catching malicious events that AV might miss and preventing incidents based on the detection rules you've set up. EDRs also go deeper with hunting, detecting and isolating capabilities.
 * **Patch Management** is critical. This is where all your vulnerability management programs fit in, making sure you fix known weaknesses in software, firmware operating systems and applications on those endpoints.
 * **Application Whitelisting/Blacklisting** is another strong control. It lets you decide exactly what applications are allowed or blocked from running or being downloaded onto endpoints, offering robust protection against unauthorized code.
 
@@ -27,7 +27,7 @@ After network controls, the next big focus is **Endpoint Security**. These are o
 
 ### Securing Users
 
-Moving on from endpoints, we shift our attention to **Users**. Users are known to be can often be the weakest link, so securing them is paramount.
+Moving on from endpoints, we shift our attention to **Users**. Users are known to often be the weakest link, so securing them is paramount.
 
 **Three foundational controls in this area, in my opinion, are:**
 
